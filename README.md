@@ -1,2 +1,3 @@
 # ARVR
 ESCAPE ISLAND
+A two player game in which players in CO-OP must coordinate together and do Tasks in which they can succesfully Escape the island they are stuck in...
